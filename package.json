@@ -1,0 +1,17 @@
+{
+  "name": "coding-instructor-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.5.0",
+    "@modelcontextprotocol/sdk": "^1.12.2",
+    "readline-sync": "^1.4.10"
+  }
+}
